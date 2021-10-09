@@ -110,3 +110,11 @@ Final step.
 - We see the number 7 on display 1.
 
 - Exact same logic applies when sending a number to display 2. We only have to work with numbers ranging from 0-9. So none of the conditions or rules are violated.
+
+Issues.
+
+- Currently only displays odd numbers.
+
+- Forcing even numbers in display functions works and produces a favorable result.
+
+- Software lead had addressed this issue during a previous query.
